@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../StormGuard.Core/StormGuard.Core.csproj" />
+  <Project Path="../StormGuard.Tests/StormGuard.Tests.csproj" />
+  <Project Path="../StormGuard.WeatherSimulator/StormGuard.WeatherSimulator.csproj" />
+  <Project Path="StormGuard.Api.csproj" />
+</Solution>
